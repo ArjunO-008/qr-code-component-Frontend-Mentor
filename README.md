@@ -17,10 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://arjuno-008.github.io/qr-code-component-Frontend-Mentor/)
-
-## My process
+- Solution URL: [Click me](https://your-solution-url.com)
+- Live Site URL: [Click me](https://arjuno-008.github.io/qr-code-component-Frontend-Mentor/)
 
 
 ## Author
